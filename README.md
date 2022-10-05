@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davydovk&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="davydovk" align = "left"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=davydovk&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="davydovk" align = "right"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=davydovk&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="davydovk" align = "left"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=davydovk&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="davydovk" align = "right"/>
 </p>
 
 <p align="center">
